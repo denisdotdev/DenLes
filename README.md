@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am a full stack web developer working on different projects and this is my GitHub page.
+
+📫 How to reach me:
+
+Email: bonjour@denislessard.com
+Website: https://www.denislessard.com
+
 <!--
 **DenLes/DenLes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
